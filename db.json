@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Pokemon Sword ",
+      "description": "Gotta catch em all!",
+      "userId": "109440427274746980858",
+      "id": 4
+    },
+    {
+      "title": "Overwatch",
+      "description": "Jeff is on stream today!",
+      "userId": "109440427274746980858",
+      "id": 5
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "description": "Is a trash game",
+      "userId": "109440427274746980858",
+      "id": 6
+    }
+  ]
+}
